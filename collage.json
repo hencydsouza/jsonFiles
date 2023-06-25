@@ -15,5 +15,22 @@
             "Mechanical Engineering",
             "Mechatronics"
         ]
+    },
+    {
+        "clgName": "Alva's College",
+        "clgLocation": "Moodbidri, Karnataka, India",
+        "clgWebsite": "https://alvascollege.com/",
+        "clgDescription": "Engineering Collage",
+        "clgRating": "4",
+        "clgPic": "https://i0.wp.com/www.mangalorean.com/wp-content/uploads/2021/07/Alvas-College.jpg?fit=800%2C449&ssl=1",
+        "clgLogo": "https://alvascollege.com/wp-content/uploads/2019/03/logo.png",
+        "courses": [
+            "Aeronautical Engineering",
+            "Civil Engineering",
+            "Computer Science & Engineering",
+            "Information Science & Engineering",
+            "Mechanical Engineering",
+            "Mechatronics"
+        ]
     }
 ]
