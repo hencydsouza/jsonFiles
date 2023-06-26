@@ -3,12 +3,10 @@
         {
             "careerName": "Nurse",
             "careerDescription": "Nurses advocate for their pateints and pateints' families.",
-            "careerUrl": "https://en.wikipedia.org/wiki/Nursing"
-        },
-        {
-            "careerName": "Physiotherapist",
-            "careerDescription": "Physiotherapists help people affected by injury, illness or disablility through movement and exercise, nanual therapy, education and advice. They maintain health for people of all ages, helping patients to manage pai and prevent disease",
-            "careerUrl": "https://en.wikipedia.org/wiki/Nursing"
+            "careerUrl": "https://en.wikipedia.org/wiki/Nursing",
+            "careerStream": "Science",
+            "careerSubject": "Biology",
+            "careerDifficulty": "Medium"
         }
     ]
 }
