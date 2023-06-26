@@ -8,5 +8,35 @@
             "careerSubject": "Biology",
             "careerDifficulty": "Medium"
         }
+    ],
+    "aesthetic": [
+        {
+            "careerName": "Architect",
+            "careerDescription": "An architect is a person who plans, designs and reviews the construction of buildings.",
+            "careerUrl": "https://en.wikipedia.org/wiki/Architect",
+            "careerStream": "Science",
+            "careerSubject": "Methematics",
+            "careerDifficulty": "High"
+        }
+    ],
+    "engineering": [
+        {
+            "careerName": "Computer Science Engineering",
+            "careerDescription": "Computer Science engineering(CSE) is one of the popular courses among engineering aspirants which focuses on the basic elements of computer programming and networking.",
+            "careerUrl": "https://en.wikipedia.org/wiki/Computer_science_and_engineering",
+            "careerStream": "Science",
+            "careerSubject": "PCM",
+            "careerDifficulty": "High"
+        }
+    ],
+    "medicine": [
+        {
+            "careerName": "Bachelor of Dental Surgery",
+            "careerDescription": "BDS course is focused on training students with knowledge and skills related to general dental practices to treat, prevent and diagnose oral diseases.",
+            "careerUrl": "https://en.wikipedia.org/wiki/Dental_degree",
+            "careerStream": "Science",
+            "careerSubject": "Biology",
+            "careerDifficulty": "High"
+        }
     ]
 }
