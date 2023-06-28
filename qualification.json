@@ -1,0 +1,33 @@
+{
+    "10th": [
+        {
+            "courseName": "Diploma in Food and Beverage Services",
+            "courseField": "diploma",
+            "courseUrl": "https://collegedunia.com/courses/diploma-in-food-and-beverage-service",
+            "courseDescription": "Minimum qualification for admission to diploma courses in Food Production and Food and Beverage Service is a clear pass in the final examination of 10 system of Senior Secondary Examination or its equivalent, with English"
+        }
+    ],
+    "12th": [
+        {
+            "courseName": "Computer Science Engineering",
+            "courseField": "Science/Engineering",
+            "courseUrl": "https://en.wikipedia.org/wiki/Computer_science_and_engineering",
+            "courseDescription": "Computer Science engineering(CSE) is one of the popular courses among engineering aspirants which focuses on the basic elements of computer programming and networking."
+        },
+
+        {
+            "courseName": "Bachelor of Dental Surgery",
+            "courseField": "Science/Medicine",
+            "courseUrl": "https://en.wikipedia.org/wiki/Dental_degree",
+            "courseDescription": "BDS course is focused on training students with knowledge and skills related to general dental practices to treat, prevent and diagnose oral diseases."
+        }
+    ],
+    "ugEngineering": [
+        {
+            "courseName": "M.E. Computer Science and Engineering",
+            "courseField": "M.E",
+            "courseUrl": "https://collegedunia.com/courses/master-of-engineering-me-computer-science-and-engineering",
+            "courseDescription": "M.E. CSE is a Post Graduate course in engineering with a specialization in the field of computer science and its related aspects. It is a two years course divided into four semesters. A minimum of 55% (relaxable for reserved category candidates) marks at UG level is the least which almost all the institutes desire from applying candidates (in the form of eligibility criterion)."
+        }
+    ]
+}
