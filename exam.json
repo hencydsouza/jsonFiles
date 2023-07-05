@@ -6,5 +6,21 @@
         "examDescription": "The Government of Karnataka established common Entrance Test Cell in the year 1994 for conducting of entrance test and determinig the eligibility/merit, for admission to the first year or first semester of full time professional courses for Government share of seats in Medical, Dental, Indian systems of medicine and Homeopathy, Engineering / Architecture Courses, Farm Science i.e, B.sc. (Agriculture), B.sc. (Sericulture), B.sc (Horticultue), B.sc(Forestry), B.sc. Agri Bio Tech, BHSc.(Home Science), B.Tech (Agri.Engg), B.Tech (Food Technology), B.Tech (Dairy Tech), B.FSc.(Fisheries), B.Tech (Food Science & Tech)., B.Sc. (Agri.Marketing & Co-Op), B-Pharma, Pharma-D Courses.",
         "examWebsite": "https://cetonline.karnataka.gov.in/kea/",
         "examLogo": "https://www.karnatakacareers.in/wp-content/uploads/2020/01/KEA.png"
+    },
+    {
+        "examName": "JEE(Advanced)",
+        "examEligibility": "Undergraduate",
+        "examDate": "24/6/2023",
+        "examDescription": "JEE stands for Joint Entrance Exam and it is a national entrance exam held for candidates seeking to pursue an engineering course from various colleges across the country. IIT stands for Indian Institute of Technology and these are the most prestigious colleges to study engineering in India.",
+        "examWebsite": "https://jeeadv.ac.in/",
+        "examLogo": "https://w7.pngwing.com/pngs/612/865/png-transparen…lass-10-neet-jee-main-school-label-logo-india.png"
+    },
+    {
+        "examName": "JEE(Main)",
+        "examEligibility": "Undergraduate",
+        "examDate": "14/4/2023",
+        "examDescription": "JEE stands for Joint Entrance Exam and it is a national entrance exam held for candidates seeking to pursue an engineering course from various colleges across the country. IIT stands for Indian Institute of Technology and these are the most prestigious colleges to study engineering in India.",
+        "examWebsite": "https://jeeadv.ac.in/",
+        "examLogo": "https://w7.pngwing.com/pngs/612/865/png-transparen…lass-10-neet-jee-main-school-label-logo-india.png"
     }
 ]
