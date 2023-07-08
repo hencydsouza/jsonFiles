@@ -5,6 +5,18 @@
             "courseField": "diploma",
             "courseUrl": "https://collegedunia.com/courses/diploma-in-food-and-beverage-service",
             "courseDescription": "Minimum qualification for admission to diploma courses in Food Production and Food and Beverage Service is a clear pass in the final examination of 10 system of Senior Secondary Examination or its equivalent, with English"
+        },
+        {
+            "courseName": "Diploma in Bakery and Confectionary",
+            "courseField": "diploma",
+            "courseUrl": "https://collegedunia.com/courses/diploma-in-bakery_and_confectionary",
+            "courseDescription": "Minimum qualification for admission to diploma courses in Bakery and Confectionary  is a clear pass in the final examination of 10 system of Senior Secondary Examination or its equivalent, with English"
+        },
+        {
+            "courseName": "Diploma in Cookery",
+            "courseField": "diploma",
+            "courseUrl": "https://collegedunia.com/courses/diploma-in-cookery",
+            "courseDescription": "Minimum qualification for admission to diploma courses in Cookery is a clear pass in the final examination of 10 system of Senior Secondary Examination or its equivalent, with English"
         }
     ],
     "12th": [
@@ -20,7 +32,15 @@
             "courseField": "Science/Medicine",
             "courseUrl": "https://en.wikipedia.org/wiki/Dental_degree",
             "courseDescription": "BDS course is focused on training students with knowledge and skills related to general dental practices to treat, prevent and diagnose oral diseases."
+        },
+        {
+            "courseName": "Bachelor of Dental Science",
+            "courseField": "Science/Medicine",
+            "courseUrl": "https://en.wikipedia.org/wiki/Dental_degree",
+            "courseDescription": "BDSc course is focused on training students with knowledge and skills related to general dental practices to treat, prevent and diagnose oral diseases."
         }
+
+
     ],
     "ugEngineering": [
         {
@@ -28,6 +48,18 @@
             "courseField": "M.E",
             "courseUrl": "https://collegedunia.com/courses/master-of-engineering-me-computer-science-and-engineering",
             "courseDescription": "M.E. CSE is a Post Graduate course in engineering with a specialization in the field of computer science and its related aspects. It is a two years course divided into four semesters. A minimum of 55% (relaxable for reserved category candidates) marks at UG level is the least which almost all the institutes desire from applying candidates (in the form of eligibility criterion)."
+        },
+        {
+            "courseName": "M.E. Civil Engineering",
+            "courseField": "M.E",
+            "courseUrl": "https://collegedunia.com/courses/master-of-engineering-me-civil-engineering",
+            "courseDescription": "Master of Engineering (ME) in Civil Engineering is a Post Graduate (PG) course in the domain of engineering with a specialization in the field of Civil engineering. The course is of 2 year duration divided into four semesters"
+        },
+        {
+            "courseName": "M.E. Aerospace Engineering",
+            "courseField": "M.E",
+            "courseUrl": "https://collegedunia.com/courses/master-of-engineering-me-aeronautical-engineering",
+            "courseDescription": "M.E. CSE is a Post Graduate course in engineering with a specialization in the field of aeronautical and its related aspects. It is a two years course divided into four semesters. A minimum of 55% (relaxable for reserved category candidates) marks at UG level is the least which almost all the institutes desire from applying candidates (in the form of eligibility criterion)."
         }
     ]
 }
