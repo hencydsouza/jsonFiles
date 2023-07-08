@@ -7,6 +7,38 @@
             "careerStream": "Science",
             "careerSubject": "Biology",
             "careerDifficulty": "Medium"
+        },
+        {
+            "careerName": "Anchor",
+            "careerDescription": "A news presenter also known as Newsreader,Newscaster,Anchorman or Anchorwoman",
+            "careerUrl": "https://en.wikipedia.org/wiki/News_presenter",
+            "careerStream": "Science,Commerce,Arts",
+            "careerSubject": "No Subjects Mandatory",
+            "careerDifficulty": "Low"
+        },
+        {
+            "careerName": "Air Hostess",
+            "careerDescription": "Flight attend is a member of a member of an Aircrew employed by Airlines.",
+            "careerUrl": "https://en.wikipedia.org/wiki/Flight_attendant",
+            "careerStream": "Science,Commerce,Arts",
+            "careerSubject": "English",
+            "careerDifficulty": "Low"
+        },
+        {
+            "careerName": "Counselor",
+            "careerDescription": "A counselor is a person whose job is to give advice to people who need it.",
+            "careerUrl": "https://en.wikipedia.org/wiki/Counselor",
+            "careerStream": "Science,Commerce,Arts",
+            "careerSubject": "Psychology",
+            "careerDifficulty": "Medium"    
+        },
+        {
+            "careerName": "Journalist",
+            "careerDescription": "A journalist is an individual that collects/gathers information in form of text, audio, or pictures, processes them into a news-worthy form, and disseminates it to the public.",
+            "careerUrl": "https://en.wikipedia.org/wiki/Journalist",
+            "careerStream": "Science,Commerce,Arts",
+            "careerSubject": "No Subjects Mandatory",
+            "careerDifficulty": "High"
         }
     ],
     "aesthetic": [
@@ -15,9 +47,43 @@
             "careerDescription": "An architect is a person who plans, designs and reviews the construction of buildings.",
             "careerUrl": "https://en.wikipedia.org/wiki/Architect",
             "careerStream": "Science",
-            "careerSubject": "Methematics",
+            "careerSubject": "Mathematics",
             "careerDifficulty": "High"
+        },
+        {
+            "careerName": "Builder",
+            "careerDescription": "A Builder is a general building work contractor who can put your whole project together",
+            "careerUrl": "https://en.wikipedia.org/wiki/Builder",
+            "careerStream": "Science",
+            "careerSubject": "Mathematics,Physics",
+            "careerDifficulty": "High"
+        },
+        {
+            "careerName": "Actor",
+            "careerDescription": "Actor is a person who potrays a chaacter in a performance.",
+            "careerUrl": "https://en.wikipedia.org/wiki/Actor",
+            "careerStream": "Science,Commerce,Arts",
+            "careerSubject": "No Subjects Mandatory",
+            "careerDifficulty": "Low"
+        },
+        {
+            "careerName": "Animator",
+            "careerDescription": "An animator is an artist who creates multiple images, known as frames, which give an illusion of movement called animation.",
+            "careerUrl": "https://en.wikipedia.org/wiki/Animator",
+            "careerStream": "Science,Commerce,Arts",
+            "careerSubject": "No Subjects Mandatory",
+            "careerDifficulty": "Medium"
+        },
+        {
+            "careerName": "Copywriter",
+            "careerDescription": "Copywriting is the act or occupation of writing text for the purpose of advertising or other forms of marketing.",
+            "careerUrl": "https://en.wikipedia.org/wiki/Copywriter",
+            "careerStream": "Science,Commerce,Arts",
+            "careerSubject": "No Subjects Mandatory",
+            "careerDifficulty": "Medium"
         }
+        
+        
     ],
     "engineering": [
         {
@@ -27,7 +93,41 @@
             "careerStream": "Science",
             "careerSubject": "PCM",
             "careerDifficulty": "High"
+        },
+        {
+            "careerName": "Aeronautical Engineering",
+            "careerDescription": "Aeronautical engineering is the primary field of engineering concerned with the development of aircraft and spacecraft.",
+            "careerUrl": "https://en.wikipedia.org/wiki/Aeronautical_engineering",
+            "careerStream": "Science",
+            "careerSubject": "PCM",
+            "careerDifficulty": "High"
+        },
+        {
+            "careerName": "Aerospace Engineering",
+            "careerDescription": "Aerospace engineering is the primary field of engineering concerned with the development of aircraft and spacecraft.",
+            "careerUrl": "https://en.wikipedia.org/wiki/Aerospace_engineering",
+            "careerStream": "Science",
+            "careerSubject": "PCM",
+            "careerDifficulty": "High"
+        },
+        {
+            "careerName": "Aeronautical Engineering",
+            "careerDescription": "Aeronautical engineering is the primary field of engineering concerned with the development of aircraft and spacecraft.",
+            "careerUrl": "https://en.wikipedia.org/wiki/Aeronautical_engineering",
+            "careerStream": "Science",
+            "careerSubject": "PCM",
+            "careerDifficulty": "High"
+        },
+        {
+            "careerName": "Civil Engineering",
+            "careerDescription": "Civil engineering is a professional engineering discipline that deals with the design, construction, and maintenance of the physical and naturally built environment.",
+            "careerUrl": "https://en.wikipedia.org/wiki/Civil_engineering",
+            "careerStream": "Science",
+            "careerSubject": "PCM",
+            "careerDifficulty": "High"
         }
+        
+        
     ],
     "medicine": [
         {
@@ -37,6 +137,39 @@
             "careerStream": "Science",
             "careerSubject": "Biology",
             "careerDifficulty": "High"
+        },
+        {
+            "careerName": "Bachelor of Dental Science",
+            "careerDescription": "BDSc course is focused on training students with knowledge and skills related to general dental practices to treat, prevent and diagnose oral diseases.",
+            "careerUrl": "https://en.wikipedia.org/wiki/Dental_degree",
+            "careerStream": "Science",
+            "careerSubject": "Biology",
+            "careerDifficulty": "High"
+        },
+        {
+            "careerName": "Bachelor of Physiotherapy",
+            "careerDescription": "Physical therapy education varies greatly from country to country. Worldwide, physical therapy training ranges from basic work site education in hospitals and outpatient clinics to professional doctoral degree and masters programs.",
+            "careerUrl": "https://en.wikipedia.org/wiki/Bachelor_of_Physiotherapy",
+            "careerStream": "Science",
+            "careerSubject": "Biology",
+            "careerDifficulty": "High"
+        },
+        {
+            "careerName": "Bachelor of Medicine ",
+            "careerDescription": "Bachelor of Medicine, Bachelor of Surgery are usually awarded as professional degrees, not as honours degrees, and as such the graduate is not classified as for honours degrees in other subjects.",
+            "careerUrl": "https://en.wikipedia.org/wiki/Bachelor_of_Medicine",
+            "careerStream": "Science",
+            "careerSubject": "Biology",
+            "careerDifficulty": "High"
+        },
+        {
+            "careerName": "Bachelor of Psychology",
+            "careerDescription": "A bachelor's degree is an undergraduate academic degree awarded by colleges and universities upon completion of a course of study lasting three to six years.",
+            "careerUrl": "https://en.wikipedia.org/wiki/Bachelor_of_Psychology",
+            "careerStream": "Science",
+            "careerSubject": "Biology",
+            "careerDifficulty": "High"
         }
+
     ]
 }
